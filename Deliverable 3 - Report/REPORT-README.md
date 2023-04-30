@@ -1,11 +1,11 @@
 # Applied Machine Learning Project Deliverable Report
 
 # Add details below
-Group Project (Group No) -
+Group Project (Group No) - 04
 
 Team Members (Name, UNI at Columbia)
-- Member 1, UNI; 
-- Member 2, UNI;
-- Member 3, UNI;
-- Member 4, UNI;
-- Member 5, UNI;
+- Anqi Xia, ax2171; 
+- Azam Khan, ak4973;
+- Uttam Gurram, ug2146;
+- Xiaokun Yu, xy2550;
+- Yupei Shu, ys3597;
